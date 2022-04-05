@@ -1,4 +1,8 @@
-# HeroesApp
+# Aplicación de heroes
+
+Aplicación que muestra un listado de heroes en donde podemos agregar, actualizar y eliminar algun heroe.
+
+Tecnologías, librerias o conceptos usados: Angular, Guards, CanActivate, CanLoad, LazyLoad.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
